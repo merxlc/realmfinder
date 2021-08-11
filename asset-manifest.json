@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/realmfinder/static/css/main.a617e044.chunk.css",
+    "main.js": "/realmfinder/static/js/main.790baa04.chunk.js",
+    "main.js.map": "/realmfinder/static/js/main.790baa04.chunk.js.map",
+    "runtime-main.js": "/realmfinder/static/js/runtime-main.062f3b6f.js",
+    "runtime-main.js.map": "/realmfinder/static/js/runtime-main.062f3b6f.js.map",
+    "static/js/2.9aced20a.chunk.js": "/realmfinder/static/js/2.9aced20a.chunk.js",
+    "static/js/2.9aced20a.chunk.js.map": "/realmfinder/static/js/2.9aced20a.chunk.js.map",
+    "static/js/3.6b00cf7f.chunk.js": "/realmfinder/static/js/3.6b00cf7f.chunk.js",
+    "static/js/3.6b00cf7f.chunk.js.map": "/realmfinder/static/js/3.6b00cf7f.chunk.js.map",
+    "index.html": "/realmfinder/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/realmfinder/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9aced20a.chunk.js.LICENSE.txt": "/realmfinder/static/js/2.9aced20a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/realmfinder/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.062f3b6f.js",
+    "static/js/2.9aced20a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.790baa04.chunk.js"
+  ]
+}
